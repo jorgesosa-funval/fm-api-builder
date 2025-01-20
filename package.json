@@ -1,0 +1,22 @@
+{
+  "name": "fm-api-template",
+  "version": "1.0.8",
+  "type": "module",
+  "description": "A simple API environment for easy creation of APIs it works with fm-api",
+  "bin": {
+    "create-fun-api": "./setup.js"
+  },
+  "keywords": [
+    "npm",
+    "template",
+    "create"
+  ],
+  "author": {
+    "name": "joregesosa",
+    "email": "joregesosa@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "simple-git": "^3.27.0"
+  }
+}
