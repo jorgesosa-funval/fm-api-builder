@@ -1,10 +1,10 @@
 {
   "name": "fm-api-template",
-  "version": "1.0.8",
+  "version": "1.0.0",
   "type": "module",
   "description": "A simple API environment for easy creation of APIs it works with fm-api",
   "bin": {
-    "create-fun-api": "./setup.js"
+    "create-fm-api": "./setup.js"
   },
   "keywords": [
     "npm",
